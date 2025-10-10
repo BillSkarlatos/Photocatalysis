@@ -158,18 +158,8 @@ Each row corresponds to one flux value and includes:
 
 ---
 
-## License
-
-Choose and add a license if you plan to share (e.g., MIT, BSD‑3‑Clause, Apache‑2.0).
-
----
-
 ## Citation
 
 Pending . . .
 
 ---
-
-## Acknowledgments
-
-* This code path draws on standard tau‑leaping Monte‑Carlo ideas and common photophysics parameterizations; tune parameters to your specific chromophore/catalyst.
